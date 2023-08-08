@@ -1,16 +1,14 @@
-# gym_app_flutter
+# Pump
+A workout note application.
+#### This is a simple workout note application that can be used to keep track of your exercises.
 
-A new Flutter project.
+## Here are some of the fields that you can save:
+- Title
+- Workout item (Eg: Bench Press, 15kg, 5x5)
+- Icon
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Workout item
+- Exercise name
+- Weight (kg)
+- Set
+- Repeat
